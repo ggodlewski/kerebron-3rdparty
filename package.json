@@ -1,0 +1,4 @@
+{
+  "name": "kerebron-3rdparty",
+  "workspaces": ["kerebron-meteor"]
+}
