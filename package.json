@@ -1,4 +1,9 @@
 {
   "name": "kerebron-3rdparty",
-  "workspaces": ["kerebron-meteor"]
+  "workspaces": ["kerebron-meteor", "kerebron-esheet"],
+  "dependencies": {
+    "@kerebron/editor": "0.9.1",
+    "@kerebron/editor-kits": "0.9.1",
+    "@kerebron/wasm": "0.9.1"
+  }
 }
